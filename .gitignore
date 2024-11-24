@@ -1,0 +1,11 @@
+# Project
+.env
+
+# Python
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+.venv
